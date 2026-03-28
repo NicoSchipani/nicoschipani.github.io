@@ -1,1 +1,2 @@
-# nicoschipani.github.io
+# Nico Schipani
+iOS App Development
